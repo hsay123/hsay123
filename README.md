@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **yashlandge150@gmail.com** For Collaboration/Project or An
 - 🌱 **I’m currently learning:** cybersecurity and Blockchain
 - 💬 **Ask me about:** Collaboration,
 - 📫 **How to reach me:** yashlandge150@gmail.com
-- 😄 **Pronouns:** yassha
+- 😄 **Pronouns:** aash
 - ⚡ **Fun fact:** Dark mode isn’t a preference, it’s a lifestyle.
 
 ## 🌐 Socials:
