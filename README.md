@@ -1,5 +1,6 @@
 ```zsh
->> neofetch
+>> root@yashh:~#
+
 ```
 
 <img align="left" src="https://i.pinimg.com/736x/f7/c8/b3/f7c8b378f0d7cf0ee933dd31ef708cd9.jpg" alt="https://www.pixiv.net/en/artworks/80962527" width="220" />
