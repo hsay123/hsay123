@@ -2,7 +2,7 @@
 >> neofetch
 ```
 
-<img align="left" src="https://i.pinimg.com/736x/4c/c8/52/4cc8525e011061f29b1d07a9e53ef1b3.jpg" alt="https://www.pixiv.net/en/artworks/80962527" width="220" />
+<img align="left" src="[https://i.pinimg.com/736x/4c/c8/52/4cc8525e011061f29b1d07a9e53ef1b3.jpg](https://i.pinimg.com/736x/f7/c8/b3/f7c8b378f0d7cf0ee933dd31ef708cd9.jpg)" alt="https://www.pixiv.net/en/artworks/80962527" width="220" />
 
 ```csharp
 Yash@github
