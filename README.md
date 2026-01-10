@@ -1,5 +1,5 @@
 ```zsh
->> root@yashh:~#
+>> root@ yashh:~#
 
 ```
 
