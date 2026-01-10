@@ -11,7 +11,7 @@ Yash@github
 Name: Yash
 Education: 2nd Year (IOT Engineering)
 Location: Maharashtra,India
-Learning: MERN, Python,  Cybersecurity
+Learning: MERN, Python, UI/UX,  Cybersecurity
 Hobbies: Editing, Gaming, Exploring Tech
 Discord: yashh_91372
 Telegram: @YashLandge07
