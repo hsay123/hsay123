@@ -15,4 +15,4 @@ Learning: MERN, Python (Creative skill)
 Discord: yashh_91372
 Telegram: @YashLandge07
 ```
-<img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="left" width="72"/><br><br><br><br>
+<img src="[https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRqaGh4ZHd1bzZ4ZGh4ZWtwNTR4ZXUyMjU4NXFmcG5mYWsxemk2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M1cRRj90qVVkqV7kwf/giphy.gif)" align="left" width="72"/><br><br><br><br>
