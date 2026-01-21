@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://brunopixels.tumblr.com/image/165491246267" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif" alt="Banner" width="100%" />
 </p>
 <br>
 
