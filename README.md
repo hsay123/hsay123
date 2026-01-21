@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://wallpaperaccess.com/full/6890726.png" alt="Banner" width="100%" />
 </p>
-
 <br>
-
 ```zsh
 >> root@ yashh:~#
 
