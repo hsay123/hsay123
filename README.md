@@ -1,8 +1,8 @@
+<p align="center">
+  <img src="https://webutubutu.com/wp-content/uploads/2020/04/landscape-1c.gif" alt="Banner" width="100%" />
+</p>
 
-<a href="https://github.com/Glauedson">
-  <img src="assets/images/Banner Persona.svg" alt="Banner"  style="width:100%; height:auto"/>
-</a>
-
+<br>
 
 ```zsh
 >> root@ yashh:~#
