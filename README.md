@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://webutubutu.com/wp-content/uploads/2020/04/landscape-1c.gif" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/50/0d/05/500d05bcbc3c80383458ee245122acb8.gif
+" alt="Banner" width="100%" />
 </p>
 
 <br>
