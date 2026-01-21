@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/6890726.png" alt="Banner" width="100%" />
+  <img src="https://brunopixels.tumblr.com/image/165491246267" alt="Banner" width="100%" />
 </p>
 <br>
 
