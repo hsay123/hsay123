@@ -14,7 +14,7 @@
 Yash@github
 -------------------------------------------------------------------
 Name: Yash Landge
-Education: 2nd Year (IOT)
+Education: 3rd Year (IOT)
 Location: Maharashtra,India
 Learning: MERN, Python, UI/UX,  Cybersecurity,web3
 Hobbies: Editing, Gaming, Exploring Tech
