@@ -24,4 +24,5 @@ Email: yashlandge150@gmail.com
 ```
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZ4d3luaHdnb2s1NHA2aGEybXZwOXg4OW83d2NkdWFhZGYzdWVkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XRV3Ag3KCDxocvYpwH/giphy.gif" align="left" width="72"/><br><br><br><br>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=hsay123&theme=tokyo-night)
+[GitHub Activity Graph]
+https://github-readme-activity-graph.vercel.app/graph?username=hsay123&theme=tokyo-night
